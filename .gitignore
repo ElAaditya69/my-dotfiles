@@ -1,0 +1,18 @@
+# Lazy.nvim
+lazy/
+
+# Undo
+undo/
+
+# Swap files
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Neovim local
+sessions/
+plugin/
